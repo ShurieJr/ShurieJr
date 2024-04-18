@@ -8,6 +8,12 @@
     <h2>🚀 About Me</h2>
     <p>I'm a oftware engineer specializing in web & mobile app development. I enjoy reading, playing football.</p>
 </div>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 <div align="center">
     <h1>Connect with ne </h1>
     <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
