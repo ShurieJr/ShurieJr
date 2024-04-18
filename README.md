@@ -5,6 +5,7 @@
 -   **Email:** shuuriyejr@gmail.com / shuuriye@just.edu.so
 -   **Email:** 20195857@std.neu.edu.tr
 <div align="center">
+    <h1>Connect with ne </h1>
     <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
