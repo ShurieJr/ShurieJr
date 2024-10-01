@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/shuuriyejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuuriyejr" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/shuriyejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/shuriyejr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@shuuriyejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@shuuriyejr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shuuriyejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@shuuriyejr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
